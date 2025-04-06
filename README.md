@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/110099930" width="150" style="border-radius:50%; border: 3px solid #FFA500; box-shadow: 0 4px 8px rgba(0,0,0,0.1)">
-
+<img src="https://avatars.githubusercontent.com/u/110099930?v=4" width="150" />
 
 # 👋 علی اصغر قاسمی  
 `فلاتر دولوپر | مهندس نرم‌افزار`  
