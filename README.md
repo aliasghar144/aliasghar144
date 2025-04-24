@@ -13,7 +13,7 @@ void main() {
   final mySkills = {
     'Mobile Development': {
       'Flutter': {
-        'State Management': ['GetX', 'BLoC'],
+        'State Management': ['GetX', 'BLoc'],
         'Architecture': ['Clean Architecture'],
         'Networking': ['Dio', 'http'],
         'Local DB': ['Hive', 'Shared Preferences']
