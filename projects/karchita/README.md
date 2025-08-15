@@ -4,7 +4,7 @@
     <a href="https://karcheetah.com" target="_blank" style="font-size: 20px; text-decoration: none; color: inherit;">
     <strong>Karcheetah App</strong>
   </a>
-  <img src="../assets/logo/karchita.png" alt="Karcheetah Logo" width="32" style="vertical-align: middle; margin-left: 8px;" />
+  <img src="../../assets/logo/karchita.png" alt="Karcheetah Logo" width="32" style="vertical-align: middle; margin-left: 8px;" />
 </p>
 
 ### توضیح کلی درباره اپلیکیشن  
@@ -24,7 +24,7 @@
 - ✨ طراحی حرفه‌ای و کاربرپسند برای هر دو نقش کاربر در محیطی واحد  
 
 <div align="center">
-  <img src="../assets/screen/karchita/1.png" width="250" alt="Karcheetah Screenshot 1"/>
-  <img src="../assets/screen/karchita/2.png" width="250" alt="Karcheetah Screenshot 2"/>
-  <img src="../assets/screen/karchita/3.png" width="250" alt="Karcheetah Screenshot 3"/>
+  <img src="../../assets/screen/karchita/1.png" width="250" alt="Karcheetah Screenshot 1"/>
+  <img src="../../assets/screen/karchita/2.png" width="250" alt="Karcheetah Screenshot 2"/>
+  <img src="../../assets/screen/karchita/3.png" width="250" alt="Karcheetah Screenshot 3"/>
 </div>
