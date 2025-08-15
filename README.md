@@ -54,6 +54,14 @@ void main() {
 <br/><br/><a href="projects/karchita"
    style="display: inline-flex; align-items: center; color: #0366d6; font-size: 14px; text-decoration: none; margin-top: 10px;">🔍 دیدن جزئیات
 </a>
+          <td align="center" width="25%">
+      <img src="assets/logo/acsan.png" width="60" />
+      <br/><strong>Acsan App</strong>
+      <br/><br/>اپلیکیشن مدیریت آموزشگاه
+<br/><br/><a href="projects/acsan"
+   style="display: inline-flex; align-items: center; color: #0366d6; font-size: 14px; text-decoration: none; margin-top: 10px;">🔍 دیدن جزئیات
+</a>
+    </td>
 </table>
 
 ---
