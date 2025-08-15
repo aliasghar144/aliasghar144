@@ -40,8 +40,8 @@
 <!-- ===== اسکرین‌شات‌ها ===== -->
 <h3>اسکرین‌شات‌ها</h3>
 <p align="center">
-  <img src="../../assets/screen/acsan/1.png" alt="Screen 1" width="200" style="margin:5px; height:450px; object-fit:cover;" />
-  <img src="../../assets/screen/acsan/2.png" alt="Screen 2" width="200" style="margin:5px; height:450px; object-fit:cover;" />
+  <img src="../../assets/screen/acsan/2.png" alt="Screen 1" width="200" style="margin:5px; height:450px; object-fit:cover;" />
+  <img src="../../assets/screen/acsan/1.png" alt="Screen 2" width="200" style="margin:5px; height:450px; object-fit:cover;" />
   <img src="../../assets/screen/acsan/3.png" alt="Screen 3" width="200" style="margin:5px; height:450px; object-fit:cover;" />
 </p>
 <p align="center">
