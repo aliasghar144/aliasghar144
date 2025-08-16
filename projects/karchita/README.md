@@ -23,6 +23,17 @@
 - 💉 استفاده از **Dependency Injection** جهت تست‌پذیری و ماژولار بودن اپلیکیشن  
 - ✨ طراحی حرفه‌ای و کاربرپسند برای هر دو نقش کاربر در محیطی واحد  
 
+
+## 📱 دانلود اپلیکیشن
+
+برای نصب اپلیکیشن می‌توانید از لینک‌های زیر استفاده کنید
+<p align="center">
+  <a href="https://karcheetah.com/mobile-app/karcheetah.apk">
+    <img src="https://www.svgrepo.com/show/533682/download.svg" width="120" alt="دانلود مستقیم"/>
+  </a>
+</p>
+
+
 <div align="center">
   <img src="../../assets/screen/karchita/1.png" width="250" alt="Karcheetah Screenshot 1"/>
   <img src="../../assets/screen/karchita/2.png" width="250" alt="Karcheetah Screenshot 2"/>
