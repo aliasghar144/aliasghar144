@@ -67,7 +67,7 @@ void main() {
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="assets/logo/AILand.png" width="60" />
+      <img src="assets/logo/AiLand.png" width="60" />
       <br/><strong>AI Land App</strong>
       <br/><br/>مجموعه ای از ابزار هوش مصنوعی
 <br/><br/><a href="projects/AiLand"
