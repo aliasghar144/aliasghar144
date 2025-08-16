@@ -64,6 +64,16 @@ void main() {
     </td>
 </table>
 
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="assets/logo/AILand.png" width="60" />
+      <br/><strong>AI Land App</strong>
+      <br/><br/>مجموعه ای از ابزار هوش مصنوعی
+<br/><br/><a href="projects/AiLand"
+   style="display: inline-flex; align-items: center; color: #0366d6; font-size: 14px; text-decoration: none; margin-top: 10px;">🔍 دیدن جزئیات
+
+</table>
 ---
 
 ### 💬 راه‌های ارتباط با من 💬
