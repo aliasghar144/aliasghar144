@@ -36,9 +36,25 @@
 - 💬 سیستم چت RealTime (SignalR)
 - 🔥 فایبریس نوتیفیکیشن
 
+## 📱 دانلود اپلیکیشن
+
+برای نصب اپلیکیشن می‌توانید از لینک‌های زیر استفاده کنید
+<p align="center">
+  <a href="https://cafebazaar.ir/app/com.acsan.mobile">
+    <img src="https://webassets.cafebazaar.ir/images/bazaar-logo.svg" width="120" alt="کافه بازار"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.acsan.mobile">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="120" alt="Google Play"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/us/app/academy-assistant/id6504353804">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="60" alt="App Store"/>
+  </a>
+</p>
 
 <!-- ===== اسکرین‌شات‌ها ===== -->
-<h3>اسکرین‌شات‌ها</h3>
+## اسکرین‌شات‌ها
 <p align="center">
   <img src="../../assets/screen/acsan/2.png" alt="Screen 1" width="200" style="margin:5px; height:450px; object-fit:cover;" />
   <img src="../../assets/screen/acsan/1.png" alt="Screen 2" width="200" style="margin:5px; height:450px; object-fit:cover;" />
