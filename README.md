@@ -18,8 +18,10 @@ void main() {
       'Flutter': {
         'State Management': ['GetX', 'BLoc'],
         'Architecture': ['Clean Architecture'],
+        'Navigation': ['GoRouter'],
         'Networking': ['Dio', 'http'],
-        'Local DB': ['Hive', 'Shared Preferences']
+        'Local DB': ['Hive', 'Shared Preferences'],
+        'Firebase': ['Messaging', 'Auth']
       }
     },
     'Tools': {
@@ -28,7 +30,6 @@ void main() {
     },
     'Other': {
       'English': ['Technical Documentation (Intermediate)'],
-      'UI/UX': ['Custom Animations', 'Material Design']
     }
   };
   print(mySkills);
