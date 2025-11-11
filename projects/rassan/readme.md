@@ -1,7 +1,4 @@
 <!-- ===== بنر یا لوگو ===== -->
-<p align="center">
-  <img src="../../assets/screen/rassan/banner.png" alt="Rassan App Banner" width="100%" />
-</p>
 
 <!-- ===== اسم اپ با لینک ===== -->
 <div align="center">
