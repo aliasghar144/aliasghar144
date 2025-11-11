@@ -73,6 +73,14 @@ void main() {
       <br/><br/>مجموعه ای از ابزار هوش مصنوعی
 <br/><br/><a href="projects/AiLand"
    style="display: inline-flex; align-items: center; color: #0366d6; font-size: 14px; text-decoration: none; margin-top: 10px;">🔍 دیدن جزئیات
+</a></td>
+    <td align="center" width="25%">
+      <img src="assets/logo/Rassan_logo.png" width="60" />
+      <br/><strong>Rassan App</strong>
+      <br/><br/>اپلکیشن کاتالوگ محصولات راسان<br/><br/><a href="projects/rassan"
+   style="display: inline-flex; align-items: center; color: #0366d6; font-size: 14px; text-decoration: none; margin-top: 10px;">🔍 دیدن جزئیات
+</a>
+    </td>
 
 </table>
 ---
