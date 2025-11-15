@@ -82,9 +82,9 @@ void main() {
 </a>
     </td>
     <td align="center" width="25%">
-      <img src="assets/logo/Isense_logo.png" width="60" />
+      <img src="assets/logo/ISense_logo.png" width="60" />
       <br/><strong>ISense App</strong>
-      <br/><br/>اپلکیشن همیار نابینایان<br/><br/><a href="projects/isense"
+      <br/><br/>اپلکیشن همیار نابینایان<br/><br/><a href="projects/ISense"
    style="display: inline-flex; align-items: center; color: #0366d6; font-size: 14px; text-decoration: none; margin-top: 10px;">🔍 دیدن جزئیات
 </a>
     </td>
